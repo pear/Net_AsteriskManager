@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "email": "doug@tintophat.com",
+            "name": "Doug Bromley",
+            "role": "Lead"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "description": "More info available on: http://pear.php.net/package/Net_AsteriskManager",
+    "license": "New BSD License",
+    "name": "pear/net_asteriskmanager",
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=AsteriskManager",
+        "source": "https://github.com/pear/AsteriskManager"
+    },
+    "type": "library",
+    "require": {
+        "pear/pear_exception": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
